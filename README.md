@@ -1,4 +1,2 @@
-# animation_village
-GLUT Project by Open GL (C++)
-IDE Used: Code Blocks
+# projectcgm
 https://devoloperemon.github.io/project/
